@@ -5,8 +5,6 @@
 
 Diseñada para centralizar información sobre modelos, disponibilidad y precios, facilitando la búsqueda y comparación para aficionados y coleccionistas.
 
-![Captura de la interfaz de búsqueda (Versión Escritorio)](src/img2.png)
-
 <p align="center">
   <img src="src/img3.png" alt="Captura de la interfaz de búsqueda (Versión móvil)">
 </p>
